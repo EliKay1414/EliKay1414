@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliKay1414
 - 👀 I’m interested in ...in learning new things relating to tech
-- 🌱 I’m currently learning ... Django in Python 
+- 🌱 I’m currently learning ... Python and Power BI
 - 💞️ I’m looking to collaborate on ...enthusiatic and smart teams hete
 - 📫 How to reach me 
 <!---
